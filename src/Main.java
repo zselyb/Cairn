@@ -10,5 +10,9 @@ class Main
 	 *
 	 * @param args the arguments
 	 */
-	
+	public static void main(String args[]) 
+	{
+		StartFrame sFrame= new StartFrame();
+		//GameController controller = new GameController();
+	 }
 }
